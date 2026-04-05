@@ -1,0 +1,5 @@
+{
+  "scope": "private",
+  "description": "Owner-only knowledge — personal relationships, health, user profile. Only accessible in DM or personal agent sessions.",
+  "access": ["personal", "owner"]
+}
