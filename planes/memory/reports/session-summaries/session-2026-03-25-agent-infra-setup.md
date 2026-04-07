@@ -1,7 +1,7 @@
 ---
 DocType: Plane-Targeted Guide
 IntentType: Reflective
-TargetPlane: audit
+TargetPlane: memory
 InPlaneCategory: Reports
 AuthorityImpact: ObservabilityOnly
 MutationBinding: NonBinding
