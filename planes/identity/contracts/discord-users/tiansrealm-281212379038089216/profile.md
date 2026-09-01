@@ -16,7 +16,7 @@ discordId: "281212379038089216"
 aliases: ["tiansrealm"]
 role: user
 firstSeen: 2026-04-06
-lastUpdated: 2026-04-07
+lastUpdated: 2026-04-10
 confidence: low
 ---
 
@@ -30,9 +30,9 @@ confidence: low
 <!-- managed:overview:start -->
 *Auto-updated on each interaction. Do not edit this block manually.*
 
-- **Interactions:** 22
-- **Last seen:** 2026-04-07
-- **Channels:** #1475198045300854867 (guild: 1475198044390559807), #1485792573053472801 (guild: 1485792572088651850), #1485551712046416004 (guild: 1485551711044112464)
+- **Interactions:** 38
+- **Last seen:** 2026-04-10
+- **Channels:** #1475198045300854867 (guild: 1475198044390559807), #1485792573053472801 (guild: 1485792572088651850), #1485551712046416004 (guild: 1485551711044112464), #1491950832759865385 (guild: 1485551711044112464)
 <!-- managed:overview:end -->
 
 ## Long-Term User Profile Summary
@@ -72,6 +72,22 @@ confidence: low
 <!-- managed:recent-chat:start -->
 *Auto-updated. Last 50 chat messages.*
 
+- `2026-04-10 00:07 UTC` | `#1485551712046416004` | `assistant` | "Alpha: **HeyGen Video Generation Plan Created** I've successfully created a comprehensive plan for integrating HeyGen video generation into the AceTitan project content pipeline. This addresses your request by establishing a structured implementation approach that complements the current ElevenLabs voice workflow. **Plan Summary:** - **Task ID:** AT-013 - HeyGen Video Generation Integration - **C…"
+- `2026-04-10 00:05 UTC` | `#1491950832759865385` | `assistant` | "**Alpha:** Here's the AceTitan HeyGen video generation plan summary: ## AceTitan HeyGen Video Quickstart Setup **Status:** NOT STARTED - awaiting owner approval **Phase:** 0 (feasibility proof) **Priority:** P1 (High) **Goal:** Create minimal HeyGen instructional video workflow for AceTitan topics ### Phase-0 Steps (4 steps, minimal scope): 1. **Select topic & create brief** (planner/GPT-5.4) 2. …"
+- `2026-04-10 00:04 UTC` | `#1491950832759865385` | `user` | "read the plan in private library should be there and summarize"
+- `2026-04-10 00:03 UTC` | `#1485551712046416004` | `user` | "add heygen video generation plan as next task"
+- `2026-04-10 00:02 UTC` | `#1485551712046416004` | `assistant` | "Alpha: **AceTitan Project Status:** **Project:** Sports betting strategy coaching business - TikTok/Instagram social media brand with 3-person team (you for tech, Jason for domain expertise, Ginna for content creation). **Current Status:** Week 1 launch behind schedule. Voice clone training identified as critical bottleneck. **Progress Summary:** - ✅ Project setup, team coordination (AT-001) - 🔄…"
+- `2026-04-10 00:02 UTC` | `#1491950832759865385` | `assistant` | "**Alpha:** Based on the codebase, here's the HeyGen video generation plan for AceTitan: ## AceTitan + HeyGen Integration Summary **Context:** AceTitan is a sports betting coaching business building TikTok/Instagram presence. Currently stuck in voice pipeline (ElevenLabs voice cloning needs improvement) before posting Video #1. **HeyGen Opportunity:** Could replace or supplement their current vide…"
+- `2026-04-10 00:01 UTC` | `#1485551712046416004` | `user` | "status of acetitan project?"
+- `2026-04-10 00:01 UTC` | `#1491950832759865385` | `user` | "summarize pkan for acetitan heygen video generation here"
+- `2026-04-10 00:00 UTC` | `#1491950832759865385` | `assistant` | "Alpha: Yes, I can reply in this channel. The last message was blocked due to PII detection in your eBay link, but normal conversation works fine."
+- `2026-04-10 00:00 UTC` | `#1491950832759865385` | `user` | "are you able to reply in this channel?"
+- `2026-04-08 20:36 UTC` | `#1485551712046416004` | `assistant` | "Alpha: **'Sold as-is'** means: - No warranty, no returns - Item condition exactly as described/pictured - Any defects become your problem - Seller won't accept 'it doesn't work' complaints **'For parts'** means: - Item is broken/non-functional - Sold for salvageable components only - Definitely no warranty or returns - Expect it NOT to work as intended For your GPU search, avoid both unless you: …"
+- `2026-04-08 20:35 UTC` | `#1485551712046416004` | `user` | "what do sold as is and for parts mean. i do see this here."
+- `2026-04-08 20:32 UTC` | `#1485551712046416004` | `assistant` | "Alpha: eBay is generally safe with proper precautions. For used GPUs specifically: **Check these:** - Seller feedback (95%+ with high volume) - Return policy (30-day minimum) - Photos show actual item, not stock photos - Listing mentions testing/working condition - Reasonable price (if dramatically cheap, question why) **Red flags:** - New seller, low feedback - Stock photos only - 'Sold as-is' o…"
+- `2026-04-08 20:32 UTC` | `#1485551712046416004` | `user` | "is it safe to buy stuff from ebay. need a used gpu and this looks very cheap https://www.ebay.com/itm/266775810885?chn=ps&norover=1&mkevt=1&mkrid=[REDACTED-SSN]-028196-7&mkcid=2&mkscid=101&itemid=266775810885&targetid=2276391439863&device=c&mktype=pla&googleloc=9198132&poi=&campaignid=22149936928&mkgroupid=175361227884&rlsatarget=pla-2276391439863&abcId=10172587&merchantid=[REDACTED-PHONE]&geoid=…"
+- `2026-04-08 20:31 UTC` | `#1485551712046416004` | `assistant` | "Request rejected: Blocked by guardrail: pii.request — High-confidence PII detected in request (patterns: phone_us, ssn). Blocked in group channel."
+- `2026-04-08 20:31 UTC` | `#1485551712046416004` | `user` | "is it safe to buy stuff from ebay? https://www.ebay.com/itm/266775810885?chn=ps&norover=1&mkevt=1&mkrid=[REDACTED-SSN]-028196-7&mkcid=2&mkscid=101&itemid=266775810885&targetid=2276391439863&device=c&mktype=pla&googleloc=9198132&poi=&campaignid=22149936928&mkgroupid=175361227884&rlsatarget=pla-2276391439863&abcId=10172587&merchantid=[REDACTED-PHONE]&geoid=9198132&gad_source=1&gad_campaignid=221499…"
 - `2026-04-07 19:20 UTC` | `#1485551712046416004` | `assistant` | "Alpha: **My Authority Level:** - **Full authority** — all skills, all scope (workspace, library, tools, other agents) - Deploy/merge authority (other agents need owner approval) - Root `MEMORY.md` write access (other agents file reports to request promotions) - Exempt from the energy system - Can coordinate and delegate to all other agents **Agent-infra2 Feature List** (13 stable features): **Cor…"
 - `2026-04-07 19:19 UTC` | `#1485551712046416004` | `user` | "what authority level do I have?"
 - `2026-04-07 19:18 UTC` | `#1485551712046416004` | `assistant` | "Agent alpha. Using model claude-sonnet-4-20250514 via the oauth-dev provider (Claude CLI). Replying through the discord adapter."

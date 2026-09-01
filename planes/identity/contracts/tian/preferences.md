@@ -18,6 +18,7 @@ Version: 1.0
 - Always show bilingual (Chinese + English) when displaying or drafting chat messages
 - Run as main-agent by default in this workspace
 - Ack immediately when gateway/Discord processing will take >10 seconds
+- For Tian's external-facing comments/messages (ADO, PR, IcM, email, etc.), never mention local workspace paths, local repositories, local branches/worktrees, or other local-machine implementation details; keep wording clean, human-friendly, direct, and concise
 
 ## Planning & Sessions
 
