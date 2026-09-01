@@ -197,4 +197,3 @@ This reference consolidates the durable content of:
 |---|---|---|
 | INV-0046 | `C:\tiansrealm\meta-lnfo\to do\anime-ai-music-video-stack-explained.md` | `F709E29BCC3DEF1CA5BE637B56BE941A40498687788216BCE91BC42941CAB0CB` |
 | INV-0048 | `C:\tiansrealm\meta-lnfo\to do\general-youtube-ai-video-stack-explained.md` | `EF2DC011BE19A19F3DB13592116CCEE4928E5A674DC701BCC8FFF39AB6DAEF45` |
-
